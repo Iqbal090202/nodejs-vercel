@@ -17,5 +17,4 @@ app.get("/", (req, res) => {
   res.json({ message: "API NODE JS" });
 });
 
-const appRoute = require('./config/routes');
-app.use('/', appRoute)
+module.exports = app;

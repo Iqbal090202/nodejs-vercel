@@ -6,6 +6,8 @@
   "author": "Ibang",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "@railway/cli": "^2.0.13",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3"
   }
 }
