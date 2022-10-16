@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-vercel",
+  "version": "1.0.0",
+  "description": "Belajar nodejs upload ke vercel",
+  "main": "index.js",
+  "author": "Ibang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
